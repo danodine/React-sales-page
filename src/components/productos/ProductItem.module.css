@@ -1,0 +1,84 @@
+.item {
+    margin: 1rem 0;
+    display: inline-block;
+    padding: 0.4rem;
+  }
+  .image {
+    width: 100%;
+    height: 20rem;
+    overflow: hidden;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    text-align: center;
+  }
+  
+  .image img {
+    width: 294px;
+    height: 294px;
+    object-fit: cover;
+    padding: 0.5rem;
+  }
+
+  .content {
+    text-align: left;
+    width: 294px;
+    padding: 0.1rem 0.5rem ;
+  }
+  
+  .content h3 {
+    font-size: 1.25rem;
+    color: #000000;
+  }
+
+  .price {
+    color: #000000;
+    font-weight: bold;
+  }
+
+  .form {
+    padding: 1rem;
+  }
+  
+  .control {
+    margin-bottom: 0.5rem;
+  }
+  
+  .control label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .control input,
+  .control textarea,
+  .control select{
+    display: block;
+    font: inherit;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 0.25rem;
+    width: 100%;
+  }
+  
+
+  .actions {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
+  .actions button {
+    font: inherit;
+    cursor: pointer;
+    background-color: #77002e;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #77002e;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .actions button:hover,
+  .actions button:active {
+    background-color: #a50e48;
+    border-color: #a50e48;
+  }

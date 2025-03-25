@@ -1,0 +1,17 @@
+.control input {
+  margin-right: 5px;
+  height: 35px;
+}
+.control button {
+  border-radius: 5px;
+  background-color: white;
+}
+.control button a{
+  float: none;
+  padding: 5px;
+}
+.control button img {
+  width: auto;
+  height: 30px;
+  padding: 2px;
+}
