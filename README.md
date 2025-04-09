@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Overview
+This is a project I started between 2019 and 2020 while learning React.js. I couldn't finish it at the time because I began a new job, so the project was put aside. It currently needs updating, a functional backend, and additional features before completion.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
